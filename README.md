@@ -42,6 +42,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
     ```bash
     git clone https://github.com/OmarxKhattab/godot-download-site.git
     cd godot-download-site
+    code .
     ```
 
 2. Open `index.html` in any modern web browser.
